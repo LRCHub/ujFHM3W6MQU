@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "SentO",
+  "base_artist": "4o",
+  "createdAt": "2025-12-23T10:13:39.533900Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Quello Che Sento",
+      "artist": "Carmen Consoli",
+      "has_synced": true,
+      "path": "select/01_Quello_Che_Sento_Carmen_Consoli.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mi sento bella",
+      "artist": "Raffaella Carrà",
+      "has_synced": true,
+      "path": "select/02_Mi_sento_bella_Raffaella_Carrà.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Quello che sento",
+      "artist": "Alexia",
+      "has_synced": false,
+      "path": "select/03_Quello_che_sento_Alexia.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sento",
+      "artist": "Alexia",
+      "has_synced": true,
+      "path": "select/04_Sento_Alexia.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sento Le Campane",
+      "artist": "Zucchero",
+      "has_synced": true,
+      "path": "select/05_Sento_Le_Campane_Zucchero.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sento il fischio del vapore",
+      "artist": "Francesco De Gregori",
+      "has_synced": true,
+      "path": "select/06_Sento_il_fischio_del_vapore_Francesco_De_Gregori.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ti sento",
+      "artist": "Matia Bazar",
+      "has_synced": false,
+      "path": "select/07_Ti_sento_Matia_Bazar.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ti sento",
+      "artist": "Alexia",
+      "has_synced": false,
+      "path": "select/08_Ti_sento_Alexia.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ti sento",
+      "artist": "Ligabue",
+      "has_synced": true,
+      "path": "select/09_Ti_sento_Ligabue.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ti Sento Vivere",
+      "artist": "883",
+      "has_synced": true,
+      "path": "select/10_Ti_Sento_Vivere_883.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Con Te Mi Sento Così",
+      "artist": "Elisa",
+      "has_synced": true,
+      "path": "select/11_Con_Te_Mi_Sento_Così_Elisa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SentO (feat. 知声)",
+      "artist": "4o",
+      "has_synced": false,
+      "path": "select/pl_01_SentO_(feat._知声)_4o.txt"
+    }
+  ]
+}
